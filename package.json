@@ -1,5 +1,5 @@
 {
-  "name": "socially",
+  "name": "socially2",
   "private": true,
   "scripts": {
     "start": "meteor run",
